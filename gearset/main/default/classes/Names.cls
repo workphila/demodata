@@ -1,6 +1,7 @@
 public class Names {
     public static List<String> FirstNames = new List<String>{
         'Olivia',
+        'Ken',
         'Emily',
         'Isla',
         'Sophie',
