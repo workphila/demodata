@@ -3,6 +3,7 @@ public class Names {
         'Olivia',
         'Emily',
         'Isla',
+        'Cheese'
         'Sophie',
         'Amelia',
         'Ella',
